@@ -15,7 +15,7 @@ Working alongside data analysts and project teams, I identify time-consuming pro
 - **Data Integration**: ERP/CRM/BI Integration, ETL Processes
 
 ### 📊 Featured Projects
-- [SQL Query Library](#) - Reusable SQL queries for common business analytics
+- [SQL Query Portfolio](#) - Reusable SQL queries for common business analytics
 - [Power BI Portfolio](#) - Dashboard examples and DAX patterns
 - [Automation Scripts](#) - Python & Power Automate workflows
 
