@@ -15,12 +15,12 @@ Working alongside data analysts and project teams, I identify time-consuming pro
 - **Data Integration**: ERP/CRM/BI Integration, ETL Processes
 
 ### 📊 Featured Projects
-- [SQL Query Portfolio](#) - Reusable SQL queries for common business analytics
+- [SQL Query Library](https://github.com/ainegradisher-dotcom/sql-query-portfolio) - Reusable SQL queries for common business analytics
 - [Power BI Portfolio](#) - Dashboard examples and DAX patterns
 - [Automation Scripts](#) - Python & Power Automate workflows
 
 ### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/aine-gradisher-28519b196/
+- LinkedIn: [Aine Gradisher](https://www.linkedin.com/in/aine-gradisher-28519b196/)
 - Location: Worthing, UK
 
 ---
