@@ -16,8 +16,8 @@ Working alongside data analysts and project teams, I identify time-consuming pro
 
 ### 📊 Featured Projects
 - [SQL Query Library](https://github.com/ainegradisher-dotcom/sql-query-portfolio) - Reusable SQL queries for common business analytics
-- [Power BI Portfolio](#) - Dashboard examples and DAX patterns
-- [Automation Scripts](#) - Python & Power Automate workflows
+- [Power BI Portfolio](https://app.powerbi.com/view?r=eyJrIjoiYmI0NWMyN2MtYzdjOS00NzUwLTllYmQtYjVkODljOGM5YjA4IiwidCI6IjY1MDljZTlkLTMzMzctNDFlZS1iYzlmLWQzNWNhZDQ5NGQ4OCJ9) - Dashboard examples and DAX patterns
+- [Automation Scripts]([#](https://github.com/ainegradisher-dotcom/automation/)) - Python & Power Automate workflows
 
 ### 📫 Connect With Me
 - LinkedIn: [Aine Gradisher](https://www.linkedin.com/in/aine-gradisher-28519b196/)
