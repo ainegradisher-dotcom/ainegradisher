@@ -1,4 +1,4 @@
-# Aine Gradisher 👋
+# Aine Gradisher
 
 ## Data Analyst | Power BI Specialist | Automation Enthusiast
 
