@@ -24,5 +24,5 @@ Working alongside data analysts and project teams, I identify time-consuming pro
 - Location: Worthing, UK
 
 ---
-*Currently seeking opportunities in Business Intelligence and Data Analytics*
+*Currently seeking opportunities in Business Intelligence and Data Analysis, Automation Development*
 ```
