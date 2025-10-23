@@ -4,6 +4,10 @@
 
 I'm a self-taught data professional who builds systems that give time back to teams. Currently working as a Systems Data Analyst, I specialise in Power BI, SQL, Python and automation.
 
+My work combines technical coding expertise with hands-on process improvement. By automating data flows and creating clear reporting tools, I help colleagues spend less time on repetitive tasks. I measure success through tangible outcomes: reduced processing times, fewer manual entries, and improved accuracy across operations.
+
+Working alongside data analysts and project teams, I identify time-consuming processes and build automated workflows to address them. My focus is always on creating practical improvements that make a real difference to how people work, while carefully considering data security and system stability.
+
 ### 🛠️ Technical Skills
 - **Business Intelligence**: Power BI (DAX, Power Query, Report Design)
 - **Databases**: SQL Server, T-SQL, Complex Queries
