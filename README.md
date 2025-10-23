@@ -1,6 +1,6 @@
 # Aine Gradisher
 
-## Data Analyst | Power BI Specialist | Automation Enthusiast
+## Data Analyst | Power BI Specialist | Automation Developer
 
 I'm a self-taught data professional who builds systems that give time back to teams. Currently working as a Systems Data Analyst, I specialise in Power BI, SQL, Python and automation.
 
