@@ -20,8 +20,8 @@ Working alongside data analysts and project teams, I identify time-consuming pro
 - [Automation Scripts](#) - Python & Power Automate workflows
 
 ### 📫 Connect With Me
-- LinkedIn: [your-profile]
-- Location: Haywards Heath, UK
+- LinkedIn: https://www.linkedin.com/in/aine-gradisher-28519b196/
+- Location: Worthing, UK
 
 ---
 *Currently seeking opportunities in Business Intelligence and Data Analytics*
